@@ -4,6 +4,13 @@ This is a repository that assess a bank's lending activities and performance. Th
 
 **Dashboard - 1**
 
+![Overview](https://github.com/AdarshJha5/Portfolio-Project-1-Financial-Loan-Data/assets/153823115/081f4a3f-5b59-4e60-ae35-f7156ecd3353)
+
+1. Monthly Trends by Issue Date (Line Chart) 2. Regional Analysis by State (Filled Map) 3. Loan Term Analysis (Donut Chart) 4. Employee Length Analysis (Bar Chart) 5. Loan Purpose Breakdown (Bar Chart)
+6. Home Ownership Analysis (Donut Chart)
+
+**Dashboard - 2**
+
 ![Summary](https://github.com/AdarshJha5/Portfolio-Project-1-Financial-Loan-Data/assets/153823115/1cdcca20-150e-4992-a1a1-ea4a652076b6)
 
 Key Performance Indicators (KPIs):
@@ -13,10 +20,4 @@ Good Loan KPIs:
 Bad Loan KPIs:
 1.	Bad Loan Application Percentage 2.	Bad Loan Applications 3.	Bad Loan Funded Amount. 4.	Bad Loan Total Received Amount
 
-**Dashboard - 2**
-
-![Overview](https://github.com/AdarshJha5/Portfolio-Project-1-Financial-Loan-Data/assets/153823115/081f4a3f-5b59-4e60-ae35-f7156ecd3353)
-
-1. Monthly Trends by Issue Date (Line Chart) 2. Regional Analysis by State (Filled Map) 3. Loan Term Analysis (Donut Chart) 4. Employee Length Analysis (Bar Chart) 5. Loan Purpose Breakdown (Bar Chart)
-6. Home Ownership Analysis (Donut Chart)
 
